@@ -1,0 +1,1 @@
+Hello, please register this mod if your using eric's draggable setup.

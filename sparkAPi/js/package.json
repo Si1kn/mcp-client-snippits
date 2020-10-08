@@ -1,0 +1,25 @@
+{
+  "name": "spark",
+  "version": "1.0.0",
+  "description": "An Api that will help people with Minecraft clients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Si1kn/Spark.git"
+  },
+  "author": "Si1kn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Si1kn/Spark/issues"
+  },
+  "homepage": "https://github.com/Si1kn/Spark#readme",
+  "dependencies": {
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.0"
+  }
+}
