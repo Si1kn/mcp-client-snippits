@@ -2,8 +2,6 @@ import com.blizard.si1kn.client.gui.hud.ScreenPosition;
 import com.blizard.si1kn.client.mods.ModDraggable;
 import net.minecraft.client.Minecraft;
 
-import java.io.IOException;
-
 public class PingMod extends ModDraggable {
     @Override
     public int getWidth()
